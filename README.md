@@ -1,4 +1,4 @@
-![logo](https://github.com/hassansaeed66/hassansaeed66/blob/main/waleed_rana_banner.jpg)
+![logo](https://github.com/hassansaeed66/hassansaeed66/blob/main/waleed_rana_banner.webp)
 <h1 align="center">Hi 👋, I'm Rana Waleed</h1>
 <h3 align="center">End-to-End Web/Mobile Dev </h3>
 
